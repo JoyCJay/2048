@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1499224961 source:c:\users\lenovo\desktop\2048\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<windows.h>
+	<ctime>
+	<stdlib.h>
+	<stdio.h>
+	<cstdlib>
+
+1498577276 source:c:\users\lenovo\desktop\2048\icon.rc
+
+1499168192 source:c:\users\lenovo\desktop\2048\console.cpp
+	"console.h"
+
+1431396482 c:\users\lenovo\desktop\2048\console.h
+	"Windows.h"
+	<string>
+	<iostream>
+
